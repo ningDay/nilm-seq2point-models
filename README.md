@@ -120,4 +120,4 @@ python src/main_pytorch.py --model_type WaveNet --target_device washingmachine \
 
 ## 相关项目
 
-配套的可视化分析平台：[nilm-visual-platform](https://github.com/<your-username>/nilm-visual-platform)（FastAPI + React，支持模型预测、指标计算与分功率区间误差分析）
+配套的可视化分析平台：[nilm-visual-platform](https://github.com/ningDay/nilm-visual-platform)（FastAPI + React，支持模型预测、指标计算与分功率区间误差分析）
